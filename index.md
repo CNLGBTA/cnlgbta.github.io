@@ -1,3 +1,4 @@
-# CNLGBTA Landing Page
+# CNLGBTA
 
-Building...
+欧吼，被发现了？
+或许你不知道这面粉色蓝色相见的条纹旗所代表的含义，或许你想知道……
