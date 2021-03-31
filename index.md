@@ -1,5 +1,5 @@
 # CN LGBT Teens Association
-## 包容 开放 多元 博爱
+### 多元 开放 包容 博爱
 
 各位领导老师和同学们，现借此方寸宝地一用。  
 若本旗帜给您带来了困扰，还请高抬贵手。  
@@ -13,7 +13,5 @@
 3月31日 —— 国际跨性别现身日  
 拒绝歧视，我与你同在。
 
-<p align="right"><a href="mailto:cnlgbta@outlook.com">与我们联系</a></p>
-
-<iframe src="http://music.163.com/outchain/player?type=0&amp;id=191342&amp;auto=0&amp;height=430" width="100%" height="450" frameborder="no" marginwidth="0" marginheight="0"></iframe> 
-
+<p align="right"><a href="mailto:cnlgbta@outlook.com">与我们联系</a></p>  
+本页面不定期更新
